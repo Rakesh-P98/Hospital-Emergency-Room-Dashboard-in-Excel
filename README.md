@@ -10,4 +10,4 @@ Timeliness Tracking: Analysis of patients attended within 30 minutes
 Gender and Age Group Breakdown: Insightful demographic trends
 Department Referral Insights: Identify high-traffic hospital departments
 Satisfaction Metrics & Wait Time Monitoring
-Built using advanced Excel techniques learned from Statish Dahawale Sir, this dashboard showcases the powerful capabilities of Excel for healthcare analytics.
+Built using advanced Excel techniques learned from Satish Dhawale Sir, this dashboard showcases the powerful capabilities of Excel for healthcare analytics.
